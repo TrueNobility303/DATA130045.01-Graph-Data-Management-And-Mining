@@ -1,4 +1,4 @@
-# DATA130045.01-Graph-Data-Management-And-Mining
+# DATA130045.01-Graph-Data-Management-and-Mining
 
 * In project 1, we focus on the problem of **frequent subgraph pattern mining** over a single large graph, we implement a Gspan-like algorithm with Python based on a python Gspan version, and implement a state-of-the-art subgraph matching algorithm [DP-iso](https://github.com/TrueNobility303/DP-iso) with C++ as a sub-problem.
 
