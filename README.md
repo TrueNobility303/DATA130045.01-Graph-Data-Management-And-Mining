@@ -15,6 +15,7 @@ Haha~ I've also written some blogs focusing some of the above topics, for exampl
 GED (Graph Edit Distance)
   * [Efficient Graph Similarity Search Over Large Graph Databases](https://truenobility303.github.io/HybridGED/)
   * [Efficient Graph Similarity Joins with Edit Distance Constraints](https://truenobility303.github.io/GSimJoin/)
+  
 MIS (Maximum Independent Set)
   * [Computing A Near-Maximum Independent Set in LinearTime by Reducing-Peeling](https://truenobility303.github.io/Reducing-Peeling/)
   * [Efficient Maximum Clique Computation over Large Sparse Graphs](https://truenobility303.github.io/MCCtoKCF/)
