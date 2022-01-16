@@ -2,7 +2,7 @@
 
 Here is a brief introduction of our projects:
 
-* In project 1, we focus on the problem of **frequent subgraph pattern mining** over a single large graph, we implement a Gspan-like algorithm with Python based on a python Gspan version, and implement a state-of-the-art subgraph matching algorithm [DP-iso](https://github.com/TrueNobility303/DP-iso) with C++ as a sub-problem.
+* In project 1, we focus on the problem of **frequent subgraph pattern mining** over a single large graph, we implement a Gspan-like algorithm with Python based on a python Gspan version, and implement a state-of-the-art subgraph matching algorithm [DP-iso](https://github.com/TrueNobility303/DP-iso) with C++ as a sub-program.
 
 * In project 2, we focus on the problem of **dynamic subgraph matching**, i.e. the data graph evolves over time. We propose our algorithm based on both on Success Set and Failure Set, and we also proposed an incremental Gcode algorithm for prunning with bounds for eigenvalues. 
 
@@ -13,11 +13,11 @@ Here is a brief introduction of our projects:
 
 Haha~ I've also written some blogs focusing some of the above topics, for example:
 
-about GED (Graph Edit Distance)
+about GED (Graph Edit Distance):
   * [Efficient Graph Similarity Search Over Large Graph Databases](https://truenobility303.github.io/HybridGED/)
   * [Efficient Graph Similarity Joins with Edit Distance Constraints](https://truenobility303.github.io/GSimJoin/)
   
-about MIS (Maximum Independent Set)
+about MIS (Maximum Independent Set):
   * [Computing A Near-Maximum Independent Set in LinearTime by Reducing-Peeling](https://truenobility303.github.io/Reducing-Peeling/)
   * [Efficient Maximum Clique Computation over Large Sparse Graphs](https://truenobility303.github.io/MCCtoKCF/)
   * [Computing a Near-Maximum Independent Set in Dynamic Graphs](https://truenobility303.github.io/DGMIS/)
