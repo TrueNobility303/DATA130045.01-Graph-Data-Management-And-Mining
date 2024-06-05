@@ -11,7 +11,7 @@ Here is a brief introduction of our projects:
 * In our final project, we go ahead with all our ideas in the previous three projects, and we focus on **a set of problems** which are all related to the base problem: **subgraph matching**. We show our insights that there exist close relationship with these problems (including **dynamic subgraph matching, frequent subgraph mining, similar subgraph mining, frequent similar subgraph mining**) and give our solutions to these problems, trying to apply the techniques in one problem to another, which is quite fun! Note that frequent similar subgraph mining is a new problem proposed by us, we show how we can use the solvers for other problems to solve the new problem. We also use a sample based framework for  frequent similar subgraph mining, using theories of VC-dimension and $\epsilon$-theorem with sufficient proof. 
 
 
-Haha~ I've also written some blogs focusing some of the above topics, for example:
+I've also written some blogs focusing some of the above topics, for example:
 
 Blogs about GED (Graph Edit Distance):
   * [Efficient Graph Similarity Search Over Large Graph Databases](https://truenobility303.github.io/HybridGED/)
